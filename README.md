@@ -2,11 +2,11 @@
 
 This repository contains my daily practice of Data Structures and Algorithms in Java, following [Striver’s A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-dsa-sheet-top-coding-interview-questions/).
 
-## 📌 Purpose
+## Purpose
 
 To build strong problem-solving skills and prepare for product-based interviews by solving curated problems in a structured, topic-wise manner.
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - Arrays
 - Sorting Techniques
@@ -20,7 +20,7 @@ To build strong problem-solving skills and prepare for product-based interviews 
 - Greedy Algorithms
 - Bit Manipulation
 
-## 🛠️ Approach
+## Approach
 
 - Each problem includes:
   - ✅ Clean Java implementation
